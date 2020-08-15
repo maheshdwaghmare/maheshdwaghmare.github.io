@@ -330,7 +330,7 @@ h2.blog.menu-item::before {
     vertical-align: middle;
 }
 h2.contact.menu-item::before {
-    content: "04";
+    content: "03";
 }
 .tv-menu-block:hover h2.menu-item::before {
     right: -40px;
