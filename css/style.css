@@ -715,7 +715,7 @@ h2.contact.menu-item::before {
     position: absolute;
     right: 0;
     text-align: center;
-    top: 50%;
+    top: 25%;
     transform: translateY(-50%);
     transition: all 0.3s ease 0s;
     z-index: 5;
